@@ -1,6 +1,6 @@
-# CIS AWS Cloudtrail Sentinel Policies for Terraform
+# CIS AWS VPC Sentinel Policies for Terraform
 This library, provides prescriptive Terraform policies that can be used to establish secure Terraform configuration 
-for Amazon Web Services Vpc Resources included in CIS v3.0.0. 
+for Amazon Web Services VPC Resources included in CIS v3.0.0. 
 The policies that are contained in this library are based on the [CIS Amazon Web Services Benchmarks](https://docs.aws.amazon.com/securityhub/latest/userguide/cis-aws-foundations-benchmark.html).
 Terraform Cloud/Enterprise users can use the policies in this library to establish a foundational level of security for the services that they are 
 adopting in Amazon Web Services.
