@@ -62,7 +62,7 @@ for flow_log_resources as _, flow_log {
 
 	traffic_type_attr_value = maps.get(flow_log, const.config + "." + const.traffic_type, "")
 	if not (traffic_type_attr_value is defined and
-	    maps.get(traffic_type_attr_value, const.constant_value, "") is const.traffic_type_reject) {
+		maps.get(traffic_type_attr_value, const.constant_value, "") is const.traffic_type_reject) {
 		continue
 	}
 
