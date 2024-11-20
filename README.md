@@ -96,7 +96,7 @@ The documentation for the policy libraries consists of Markdown files within thi
 
 The following CIS standards have equivalent Sentinel policies written for them. These policies get enforced between the `plan` and `apply` phase whenever a run gets queued in TFC/TFE.
 
-- [vpc-flow-logging-enabled](./docs/policies/vpc-flow-logging-enabled.md)
+- vpc-flow-logging-enabled
 
 ### Minimum Sentinel Version Required
 
