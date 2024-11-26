@@ -20,7 +20,7 @@ We aim to validate the effectiveness of our policies by collecting diverse user 
 
 ### Policies Included
 
-- vpc-flow-logging-enabled ([docs](https://github.com/hashicorp/policy-library-cis-aws-vpc-terraform/blob/main/docs/policies/vpc-flow-logging-enabled.md) | [code](https://github.com/hashicorp/policy-library-cis-aws-vpc-terraform/blob/main/policies/vpc-flow-logging-enabled.sentinel))
+- Ensure VPC flow logging is enabled in all VPCs ([docs](https://github.com/hashicorp/policy-library-cis-aws-vpc-terraform/blob/main/docs/policies/vpc-flow-logging-enabled.md) | [code](https://github.com/hashicorp/policy-library-cis-aws-vpc-terraform/blob/main/policies/vpc-flow-logging-enabled.sentinel))
 
 ## Getting Started
 
